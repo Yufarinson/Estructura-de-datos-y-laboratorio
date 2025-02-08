@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yufar\\OneDrive\\Desktop\\Estructura de datos y laboratorio\\LogicConcepts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9B46C7-3CE3-4D73-9CF1-32FE37A3BCFE}|IsNumberOddOrNot\\IsNumberOddOrNot.csproj|c:\\users\\yufar\\onedrive\\desktop\\estructura de datos y laboratorio\\logicconcepts\\isnumberoddornot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9B46C7-3CE3-4D73-9CF1-32FE37A3BCFE}|IsNumberOddOrNot\\IsNumberOddOrNot.csproj|solutionrelative:isnumberoddornot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yufar\\OneDrive\\Desktop\\Estructura de datos y laboratorio\\LogicConcepts\\IsNumberOddOrNot\\Program.cs",
+              "RelativeDocumentMoniker": "IsNumberOddOrNot\\Program.cs",
+              "ToolTip": "C:\\Users\\yufar\\OneDrive\\Desktop\\Estructura de datos y laboratorio\\LogicConcepts\\IsNumberOddOrNot\\Program.cs",
+              "RelativeToolTip": "IsNumberOddOrNot\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T20:34:47.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
