@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IsNumberOddOrNot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42712bd03bc2429b1997fe36f6570db808d26eb5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24c9ff28f63b67d9f51445ff839a64554d373378")]
 [assembly: System.Reflection.AssemblyProductAttribute("IsNumberOddOrNot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IsNumberOddOrNot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
