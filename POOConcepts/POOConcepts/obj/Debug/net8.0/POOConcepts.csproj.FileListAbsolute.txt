@@ -1,0 +1,15 @@
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\POOConcepts\bin\Debug\net8.0\POOConcepts.exe
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\POOConcepts\bin\Debug\net8.0\POOConcepts.deps.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\POOConcepts\bin\Debug\net8.0\POOConcepts.runtimeconfig.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\POOConcepts\bin\Debug\net8.0\POOConcepts.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\POOConcepts\bin\Debug\net8.0\POOConcepts.pdb
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\POOConcepts\obj\Debug\net8.0\POOConcepts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\POOConcepts\obj\Debug\net8.0\POOConcepts.AssemblyInfoInputs.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\POOConcepts\obj\Debug\net8.0\POOConcepts.AssemblyInfo.cs
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\POOConcepts\obj\Debug\net8.0\POOConcepts.csproj.CoreCompileInputs.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\POOConcepts\obj\Debug\net8.0\POOConcepts.sourcelink.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\POOConcepts\obj\Debug\net8.0\POOConcepts.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\POOConcepts\obj\Debug\net8.0\refint\POOConcepts.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\POOConcepts\obj\Debug\net8.0\POOConcepts.pdb
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\POOConcepts\obj\Debug\net8.0\POOConcepts.genruntimeconfig.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\POOConcepts\obj\Debug\net8.0\ref\POOConcepts.dll
