@@ -1,0 +1,15 @@
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\EmpresaTransporte\obj\Debug\net8.0\EmpresaTransporte_11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\EmpresaTransporte\obj\Debug\net8.0\EmpresaTransporte_11.AssemblyInfoInputs.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\EmpresaTransporte\obj\Debug\net8.0\EmpresaTransporte_11.AssemblyInfo.cs
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\EmpresaTransporte\obj\Debug\net8.0\EmpresaTransporte_11.csproj.CoreCompileInputs.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\EmpresaTransporte\obj\Debug\net8.0\EmpresaTransporte_11.sourcelink.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\EmpresaTransporte\bin\Debug\net8.0\EmpresaTransporte_11.exe
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\EmpresaTransporte\bin\Debug\net8.0\EmpresaTransporte_11.deps.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\EmpresaTransporte\bin\Debug\net8.0\EmpresaTransporte_11.runtimeconfig.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\EmpresaTransporte\bin\Debug\net8.0\EmpresaTransporte_11.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\EmpresaTransporte\bin\Debug\net8.0\EmpresaTransporte_11.pdb
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\EmpresaTransporte\obj\Debug\net8.0\EmpresaTransporte_11.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\EmpresaTransporte\obj\Debug\net8.0\refint\EmpresaTransporte_11.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\EmpresaTransporte\obj\Debug\net8.0\EmpresaTransporte_11.pdb
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\EmpresaTransporte\obj\Debug\net8.0\EmpresaTransporte_11.genruntimeconfig.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\EmpresaTransporte\obj\Debug\net8.0\ref\EmpresaTransporte_11.dll

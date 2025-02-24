@@ -1,0 +1,15 @@
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_01_POO\Taller_01_POO\bin\Debug\net8.0\Taller_01_POO.exe
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_01_POO\Taller_01_POO\bin\Debug\net8.0\Taller_01_POO.deps.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_01_POO\Taller_01_POO\bin\Debug\net8.0\Taller_01_POO.runtimeconfig.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_01_POO\Taller_01_POO\bin\Debug\net8.0\Taller_01_POO.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_01_POO\Taller_01_POO\bin\Debug\net8.0\Taller_01_POO.pdb
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_01_POO\Taller_01_POO\obj\Debug\net8.0\Taller_01_POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_01_POO\Taller_01_POO\obj\Debug\net8.0\Taller_01_POO.AssemblyInfoInputs.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_01_POO\Taller_01_POO\obj\Debug\net8.0\Taller_01_POO.AssemblyInfo.cs
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_01_POO\Taller_01_POO\obj\Debug\net8.0\Taller_01_POO.csproj.CoreCompileInputs.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_01_POO\Taller_01_POO\obj\Debug\net8.0\Taller_01_POO.sourcelink.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_01_POO\Taller_01_POO\obj\Debug\net8.0\Taller_01_POO.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_01_POO\Taller_01_POO\obj\Debug\net8.0\refint\Taller_01_POO.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_01_POO\Taller_01_POO\obj\Debug\net8.0\Taller_01_POO.pdb
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_01_POO\Taller_01_POO\obj\Debug\net8.0\Taller_01_POO.genruntimeconfig.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_01_POO\Taller_01_POO\obj\Debug\net8.0\ref\Taller_01_POO.dll

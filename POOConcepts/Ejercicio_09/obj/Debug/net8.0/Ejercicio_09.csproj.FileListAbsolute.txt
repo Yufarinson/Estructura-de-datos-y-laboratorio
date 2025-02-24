@@ -1,0 +1,15 @@
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Ejercicio_09\bin\Debug\net8.0\Ejercicio_09.exe
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Ejercicio_09\bin\Debug\net8.0\Ejercicio_09.deps.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Ejercicio_09\bin\Debug\net8.0\Ejercicio_09.runtimeconfig.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Ejercicio_09\bin\Debug\net8.0\Ejercicio_09.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Ejercicio_09\bin\Debug\net8.0\Ejercicio_09.pdb
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Ejercicio_09\obj\Debug\net8.0\Ejercicio_09.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Ejercicio_09\obj\Debug\net8.0\Ejercicio_09.AssemblyInfoInputs.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Ejercicio_09\obj\Debug\net8.0\Ejercicio_09.AssemblyInfo.cs
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Ejercicio_09\obj\Debug\net8.0\Ejercicio_09.csproj.CoreCompileInputs.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Ejercicio_09\obj\Debug\net8.0\Ejercicio_09.sourcelink.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Ejercicio_09\obj\Debug\net8.0\Ejercicio_09.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Ejercicio_09\obj\Debug\net8.0\refint\Ejercicio_09.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Ejercicio_09\obj\Debug\net8.0\Ejercicio_09.pdb
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Ejercicio_09\obj\Debug\net8.0\Ejercicio_09.genruntimeconfig.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Ejercicio_09\obj\Debug\net8.0\ref\Ejercicio_09.dll

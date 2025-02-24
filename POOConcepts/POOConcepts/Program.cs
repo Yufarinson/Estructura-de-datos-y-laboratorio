@@ -3,13 +3,16 @@
 
 try
 {
-    var date1 = new Date();
-    var date2 = new Date(1974, 12, 3);
-    var date3 = new Date(2020, 2, 29);
+    var secretario = new SalaryEmployee(1, "Sandra", "Martinez", true, new Date(1981, 11, 14), new Date(2022, 3, 14), 2500000M);
+    var manager = new SalaryEmployee(1, "Fabio", "Ochoa", true, new Date(1981, 11, 14), new Date(2022, 3, 14), 11746324.15M);
 
-    Console.WriteLine(date1);
-    Console.WriteLine(date2);
-    Console.WriteLine(date3);
+    var employees = new List<Employee>() { secretario, manager };
+
+    foreach (var employee in employees)
+    {
+        Console.WriteLine(employee);
+        Console.WriteLine("______________________________________________");
+    }
 }
 catch (Exception ex)
 {

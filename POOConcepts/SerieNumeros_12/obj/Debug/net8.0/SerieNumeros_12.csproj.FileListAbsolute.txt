@@ -1,0 +1,15 @@
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SerieNumeros_12\bin\Debug\net8.0\SerieNumeros_12.exe
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SerieNumeros_12\bin\Debug\net8.0\SerieNumeros_12.deps.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SerieNumeros_12\bin\Debug\net8.0\SerieNumeros_12.runtimeconfig.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SerieNumeros_12\bin\Debug\net8.0\SerieNumeros_12.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SerieNumeros_12\bin\Debug\net8.0\SerieNumeros_12.pdb
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SerieNumeros_12\obj\Debug\net8.0\SerieNumeros_12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SerieNumeros_12\obj\Debug\net8.0\SerieNumeros_12.AssemblyInfoInputs.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SerieNumeros_12\obj\Debug\net8.0\SerieNumeros_12.AssemblyInfo.cs
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SerieNumeros_12\obj\Debug\net8.0\SerieNumeros_12.csproj.CoreCompileInputs.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SerieNumeros_12\obj\Debug\net8.0\SerieNumeros_12.sourcelink.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SerieNumeros_12\obj\Debug\net8.0\SerieNumeros_12.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SerieNumeros_12\obj\Debug\net8.0\refint\SerieNumeros_12.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SerieNumeros_12\obj\Debug\net8.0\SerieNumeros_12.pdb
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SerieNumeros_12\obj\Debug\net8.0\SerieNumeros_12.genruntimeconfig.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SerieNumeros_12\obj\Debug\net8.0\ref\SerieNumeros_12.dll

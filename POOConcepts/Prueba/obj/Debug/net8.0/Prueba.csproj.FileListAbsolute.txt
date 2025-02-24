@@ -1,0 +1,15 @@
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Prueba\bin\Debug\net8.0\Prueba.exe
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Prueba\bin\Debug\net8.0\Prueba.deps.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Prueba\bin\Debug\net8.0\Prueba.runtimeconfig.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Prueba\bin\Debug\net8.0\Prueba.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Prueba\bin\Debug\net8.0\Prueba.pdb
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Prueba\obj\Debug\net8.0\Prueba.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Prueba\obj\Debug\net8.0\Prueba.AssemblyInfoInputs.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Prueba\obj\Debug\net8.0\Prueba.AssemblyInfo.cs
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Prueba\obj\Debug\net8.0\Prueba.csproj.CoreCompileInputs.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Prueba\obj\Debug\net8.0\Prueba.sourcelink.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Prueba\obj\Debug\net8.0\Prueba.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Prueba\obj\Debug\net8.0\refint\Prueba.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Prueba\obj\Debug\net8.0\Prueba.pdb
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Prueba\obj\Debug\net8.0\Prueba.genruntimeconfig.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Prueba\obj\Debug\net8.0\ref\Prueba.dll
