@@ -22,7 +22,6 @@ try
     }
 
     var t6 = new Time(45, -7, 90, -87);
-    Console.WriteLine($"Time: {t6}");
 }
 catch (Exception exception)
 {
