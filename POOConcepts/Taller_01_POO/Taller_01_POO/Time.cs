@@ -70,12 +70,12 @@ public class Time
         }
         if (minutes > 59)
         {
-            minutes -= 59;
+            minutes -= 60;
             hours++;
         }
         if (hours > 23)
         {
-            hours = hours - 23;
+            hours = hours - 24;
         }
         return new Time(hours, minutes, seconds, miliseconds);
     }
