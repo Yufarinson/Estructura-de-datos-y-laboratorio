@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace POOConcepts;
 
-public abstract class Employee
+public abstract class Employee : IPay
 {
 
     public Employee(int id, string firstName, string lastName, bool isActive, Date? bornDate, Date? hireDate)

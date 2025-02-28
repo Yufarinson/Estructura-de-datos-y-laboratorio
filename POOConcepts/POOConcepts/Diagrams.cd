@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="POOConcepts.Date">
-    <Position X="4.5" Y="1.25" Width="2.5" />
+    <Position X="6.25" Y="4" Width="2.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAJAAAAAAEAAEAAAMAAAAAAACEMAAAAAAAAAA=</HashCode>
       <FileName>Date.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="POOConcepts.Employee">
-    <Position X="9.25" Y="1.75" Width="1.75" />
+    <Position X="6.75" Y="0.75" Width="1.75" />
     <TypeIdentifier>
       <HashCode>ABAAAEAAAAAAgAAEEAAAAAAAACAAAAAIAAAAAAAAAAg=</HashCode>
       <FileName>Employee.cs</FileName>
@@ -17,13 +17,57 @@
       <Property Name="BornDate" />
       <Property Name="HireDate" />
     </ShowAsAssociation>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="POOConcepts.SalaryEmployee">
-    <Position X="12.75" Y="2" Width="1.5" />
+    <Position X="9.5" Y="0.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>ACAAACAAAAAAAAAEAAAAAAAAAAAAAAAIAAAAAAQAAAA=</HashCode>
       <FileName>SalaryEmployee.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="POOConcepts.ComissionEmployee">
+    <Position X="3.5" Y="0.75" Width="2.25" />
+    <InheritanceLine Type="POOConcepts.Employee" FixedFromPoint="true">
+      <Path>
+        <Point X="6.75" Y="1.938" />
+        <Point X="5.75" Y="1.938" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAIAEAAAEAAAAAQAAAAAIAAgAAAAAAAA=</HashCode>
+      <FileName>ComissionEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POOConcepts.HourlyEmployee">
+    <Position X="9.5" Y="4" Width="2.25" />
+    <InheritanceLine Type="POOConcepts.Employee" FixedFromPoint="true">
+      <Path>
+        <Point X="8.5" Y="2.562" />
+        <Point X="8.8" Y="2.562" />
+        <Point X="8.8" Y="3.7" />
+        <Point X="10.625" Y="3.7" />
+        <Point X="10.625" Y="4" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AMAAAAAAAAAAAAAEAAgAAAAAAAAEAABIAAAAAAAAAAE=</HashCode>
+      <FileName>HourlyEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POOConcepts.BaseComissionEmployee">
+    <Position X="3.25" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACAAACAAAAAAAAAEAAAAAAAAAAAAAAAIAAAAAAQAAAA=</HashCode>
+      <FileName>BaseComissionEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="POOConcepts.IPay">
+    <Position X="11.75" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>IPay.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>

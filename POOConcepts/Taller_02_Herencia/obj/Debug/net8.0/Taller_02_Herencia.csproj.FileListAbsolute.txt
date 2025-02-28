@@ -1,0 +1,15 @@
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_02_Herencia\bin\Debug\net8.0\Taller_02_Herencia.exe
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_02_Herencia\bin\Debug\net8.0\Taller_02_Herencia.deps.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_02_Herencia\bin\Debug\net8.0\Taller_02_Herencia.runtimeconfig.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_02_Herencia\bin\Debug\net8.0\Taller_02_Herencia.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_02_Herencia\bin\Debug\net8.0\Taller_02_Herencia.pdb
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_02_Herencia\obj\Debug\net8.0\Taller_02_Herencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_02_Herencia\obj\Debug\net8.0\Taller_02_Herencia.AssemblyInfoInputs.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_02_Herencia\obj\Debug\net8.0\Taller_02_Herencia.AssemblyInfo.cs
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_02_Herencia\obj\Debug\net8.0\Taller_02_Herencia.csproj.CoreCompileInputs.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_02_Herencia\obj\Debug\net8.0\Taller_02_Herencia.sourcelink.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_02_Herencia\obj\Debug\net8.0\Taller_02_Herencia.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_02_Herencia\obj\Debug\net8.0\refint\Taller_02_Herencia.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_02_Herencia\obj\Debug\net8.0\Taller_02_Herencia.pdb
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_02_Herencia\obj\Debug\net8.0\Taller_02_Herencia.genruntimeconfig.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Taller_02_Herencia\obj\Debug\net8.0\ref\Taller_02_Herencia.dll

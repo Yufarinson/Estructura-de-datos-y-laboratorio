@@ -21,6 +21,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tasks", "tasks", "{A6408CDC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taller_01_POO", "Taller_01_POO\Taller_01_POO\Taller_01_POO.csproj", "{65986AAF-EB22-4917-9363-5EB2607781FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taller_02_Herencia", "Taller_02_Herencia\Taller_02_Herencia.csproj", "{93B79335-070C-43ED-A890-FD298F295465}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{65986AAF-EB22-4917-9363-5EB2607781FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65986AAF-EB22-4917-9363-5EB2607781FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65986AAF-EB22-4917-9363-5EB2607781FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93B79335-070C-43ED-A890-FD298F295465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93B79335-070C-43ED-A890-FD298F295465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93B79335-070C-43ED-A890-FD298F295465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93B79335-070C-43ED-A890-FD298F295465}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -66,6 +72,7 @@ Global
 		{9CE8FE98-64AB-4336-87AE-B0BBBD746799} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{5D8C3254-EB5E-405E-B1DB-E5F3929322D2} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{65986AAF-EB22-4917-9363-5EB2607781FF} = {A6408CDC-60E8-410F-9C2E-C34A10ECCDE1}
+		{93B79335-070C-43ED-A890-FD298F295465} = {A6408CDC-60E8-410F-9C2E-C34A10ECCDE1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {55D35268-AD28-449B-A9CF-5423E449BE6E}
