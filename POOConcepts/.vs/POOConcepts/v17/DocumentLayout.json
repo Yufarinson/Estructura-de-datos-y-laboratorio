@@ -3,44 +3,48 @@
   "WorkspaceRootPath": "D:\\Cursos\\Estructura de datos y laboratorio\\POOConcepts\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|d:\\cursos\\estructura de datos y laboratorio\\pooconcepts\\taller_02_herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|solutionrelative:taller_02_herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|d:\\cursos\\estructura de datos y laboratorio\\pooconcepts\\taller_02_herencia\\trapeze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|solutionrelative:taller_02_herencia\\trapeze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|d:\\cursos\\estructura de datos y laboratorio\\pooconcepts\\taller_02_herencia\\geometricfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|solutionrelative:taller_02_herencia\\geometricfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|d:\\cursos\\estructura de datos y laboratorio\\pooconcepts\\taller_02_herencia\\parallelogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|solutionrelative:taller_02_herencia\\parallelogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|d:\\cursos\\estructura de datos y laboratorio\\pooconcepts\\taller_02_herencia\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|solutionrelative:taller_02_herencia\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|d:\\cursos\\estructura de datos y laboratorio\\pooconcepts\\taller_02_herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|solutionrelative:taller_02_herencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|d:\\cursos\\estructura de datos y laboratorio\\pooconcepts\\taller_02_herencia\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|solutionrelative:taller_02_herencia\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|d:\\cursos\\estructura de datos y laboratorio\\pooconcepts\\taller_02_herencia\\rhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|solutionrelative:taller_02_herencia\\rhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|d:\\cursos\\estructura de datos y laboratorio\\pooconcepts\\taller_02_herencia\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|solutionrelative:taller_02_herencia\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|d:\\cursos\\estructura de datos y laboratorio\\pooconcepts\\taller_02_herencia\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|solutionrelative:taller_02_herencia\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|d:\\cursos\\estructura de datos y laboratorio\\pooconcepts\\taller_02_herencia\\parallelogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|solutionrelative:taller_02_herencia\\parallelogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|d:\\cursos\\estructura de datos y laboratorio\\pooconcepts\\taller_02_herencia\\kite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|solutionrelative:taller_02_herencia\\kite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|d:\\cursos\\estructura de datos y laboratorio\\pooconcepts\\taller_02_herencia\\rhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|solutionrelative:taller_02_herencia\\rhombus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|d:\\cursos\\estructura de datos y laboratorio\\pooconcepts\\taller_02_herencia\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|solutionrelative:taller_02_herencia\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|d:\\cursos\\estructura de datos y laboratorio\\pooconcepts\\taller_02_herencia\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|solutionrelative:taller_02_herencia\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|d:\\cursos\\estructura de datos y laboratorio\\pooconcepts\\taller_02_herencia\\geometricfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|solutionrelative:taller_02_herencia\\geometricfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|d:\\cursos\\estructura de datos y laboratorio\\pooconcepts\\taller_02_herencia\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B79335-070C-43ED-A890-FD298F295465}|Taller_02_Herencia\\Taller_02_Herencia.csproj|solutionrelative:taller_02_herencia\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,59 +54,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "GeometricFigure.cs",
               "DocumentMoniker": "D:\\Cursos\\Estructura de datos y laboratorio\\POOConcepts\\Taller_02_Herencia\\GeometricFigure.cs",
               "RelativeDocumentMoniker": "Taller_02_Herencia\\GeometricFigure.cs",
               "ToolTip": "D:\\Cursos\\Estructura de datos y laboratorio\\POOConcepts\\Taller_02_Herencia\\GeometricFigure.cs",
               "RelativeToolTip": "Taller_02_Herencia\\GeometricFigure.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T04:36:36.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T04:36:36.973Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Circle.cs",
               "DocumentMoniker": "D:\\Cursos\\Estructura de datos y laboratorio\\POOConcepts\\Taller_02_Herencia\\Circle.cs",
               "RelativeDocumentMoniker": "Taller_02_Herencia\\Circle.cs",
               "ToolTip": "D:\\Cursos\\Estructura de datos y laboratorio\\POOConcepts\\Taller_02_Herencia\\Circle.cs",
               "RelativeToolTip": "Taller_02_Herencia\\Circle.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAswCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T04:50:19.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T04:50:19.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Square.cs",
               "DocumentMoniker": "D:\\Cursos\\Estructura de datos y laboratorio\\POOConcepts\\Taller_02_Herencia\\Square.cs",
               "RelativeDocumentMoniker": "Taller_02_Herencia\\Square.cs",
               "ToolTip": "D:\\Cursos\\Estructura de datos y laboratorio\\POOConcepts\\Taller_02_Herencia\\Square.cs",
               "RelativeToolTip": "Taller_02_Herencia\\Square.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T04:50:58.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T04:50:58.305Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Rhombus.cs",
               "DocumentMoniker": "D:\\Cursos\\Estructura de datos y laboratorio\\POOConcepts\\Taller_02_Herencia\\Rhombus.cs",
               "RelativeDocumentMoniker": "Taller_02_Herencia\\Rhombus.cs",
               "ToolTip": "D:\\Cursos\\Estructura de datos y laboratorio\\POOConcepts\\Taller_02_Herencia\\Rhombus.cs",
               "RelativeToolTip": "Taller_02_Herencia\\Rhombus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBYAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T04:51:17.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T04:51:17.252Z"
             },
             {
               "$type": "Document",
@@ -112,27 +112,49 @@
               "RelativeDocumentMoniker": "Taller_02_Herencia\\Kite.cs",
               "ToolTip": "D:\\Cursos\\Estructura de datos y laboratorio\\POOConcepts\\Taller_02_Herencia\\Kite.cs",
               "RelativeToolTip": "Taller_02_Herencia\\Kite.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T04:51:27.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T04:51:27.303Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "D:\\Cursos\\Estructura de datos y laboratorio\\POOConcepts\\Taller_02_Herencia\\Rectangle.cs",
               "RelativeDocumentMoniker": "Taller_02_Herencia\\Rectangle.cs",
               "ToolTip": "D:\\Cursos\\Estructura de datos y laboratorio\\POOConcepts\\Taller_02_Herencia\\Rectangle.cs",
               "RelativeToolTip": "Taller_02_Herencia\\Rectangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T04:50:47.959Z",
+              "WhenOpened": "2025-02-28T04:50:47.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Trapeze.cs",
+              "DocumentMoniker": "D:\\Cursos\\Estructura de datos y laboratorio\\POOConcepts\\Taller_02_Herencia\\Trapeze.cs",
+              "RelativeDocumentMoniker": "Taller_02_Herencia\\Trapeze.cs",
+              "ToolTip": "D:\\Cursos\\Estructura de datos y laboratorio\\POOConcepts\\Taller_02_Herencia\\Trapeze.cs",
+              "RelativeToolTip": "Taller_02_Herencia\\Trapeze.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:49:41.086Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\Cursos\\Estructura de datos y laboratorio\\POOConcepts\\Taller_02_Herencia\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Taller_02_Herencia\\ClassDiagram1.cd",
+              "ToolTip": "D:\\Cursos\\Estructura de datos y laboratorio\\POOConcepts\\Taller_02_Herencia\\ClassDiagram1.cd",
+              "RelativeToolTip": "Taller_02_Herencia\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-02-28T13:28:11.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Parallelogram.cs",
               "DocumentMoniker": "D:\\Cursos\\Estructura de datos y laboratorio\\POOConcepts\\Taller_02_Herencia\\Parallelogram.cs",
               "RelativeDocumentMoniker": "Taller_02_Herencia\\Parallelogram.cs",
@@ -140,47 +162,31 @@
               "RelativeToolTip": "Taller_02_Herencia\\Parallelogram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T04:50:36.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T04:50:36.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Triangle.cs",
               "DocumentMoniker": "D:\\Cursos\\Estructura de datos y laboratorio\\POOConcepts\\Taller_02_Herencia\\Triangle.cs",
               "RelativeDocumentMoniker": "Taller_02_Herencia\\Triangle.cs",
               "ToolTip": "D:\\Cursos\\Estructura de datos y laboratorio\\POOConcepts\\Taller_02_Herencia\\Triangle.cs",
               "RelativeToolTip": "Taller_02_Herencia\\Triangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T04:49:59.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T04:49:59.397Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Trapeze.cs",
-              "DocumentMoniker": "D:\\Cursos\\Estructura de datos y laboratorio\\POOConcepts\\Taller_02_Herencia\\Trapeze.cs",
-              "RelativeDocumentMoniker": "Taller_02_Herencia\\Trapeze.cs",
-              "ToolTip": "D:\\Cursos\\Estructura de datos y laboratorio\\POOConcepts\\Taller_02_Herencia\\Trapeze.cs",
-              "RelativeToolTip": "Taller_02_Herencia\\Trapeze.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAswCQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T04:49:41.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Cursos\\Estructura de datos y laboratorio\\POOConcepts\\Taller_02_Herencia\\Program.cs",
               "RelativeDocumentMoniker": "Taller_02_Herencia\\Program.cs",
               "ToolTip": "D:\\Cursos\\Estructura de datos y laboratorio\\POOConcepts\\Taller_02_Herencia\\Program.cs",
               "RelativeToolTip": "Taller_02_Herencia\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T04:35:43.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T04:35:43.144Z"
             }
           ]
         }
