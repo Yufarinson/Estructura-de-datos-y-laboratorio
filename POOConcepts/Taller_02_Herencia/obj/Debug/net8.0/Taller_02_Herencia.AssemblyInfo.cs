@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Taller_02_Herencia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e06d6a28082662af36ffb2070cd798b8a0b8196d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f4cebdaacf4cb4a5a6498e7f0a24bbe14cba05a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Taller_02_Herencia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Taller_02_Herencia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

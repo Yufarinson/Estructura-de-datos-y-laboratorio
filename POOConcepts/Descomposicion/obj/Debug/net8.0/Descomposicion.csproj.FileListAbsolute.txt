@@ -1,0 +1,15 @@
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Descomposicion\bin\Debug\net8.0\Descomposicion.exe
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Descomposicion\bin\Debug\net8.0\Descomposicion.deps.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Descomposicion\bin\Debug\net8.0\Descomposicion.runtimeconfig.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Descomposicion\bin\Debug\net8.0\Descomposicion.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Descomposicion\bin\Debug\net8.0\Descomposicion.pdb
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Descomposicion\obj\Debug\net8.0\Descomposicion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Descomposicion\obj\Debug\net8.0\Descomposicion.AssemblyInfoInputs.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Descomposicion\obj\Debug\net8.0\Descomposicion.AssemblyInfo.cs
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Descomposicion\obj\Debug\net8.0\Descomposicion.csproj.CoreCompileInputs.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Descomposicion\obj\Debug\net8.0\Descomposicion.sourcelink.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Descomposicion\obj\Debug\net8.0\Descomposicion.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Descomposicion\obj\Debug\net8.0\refint\Descomposicion.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Descomposicion\obj\Debug\net8.0\Descomposicion.pdb
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Descomposicion\obj\Debug\net8.0\Descomposicion.genruntimeconfig.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Descomposicion\obj\Debug\net8.0\ref\Descomposicion.dll

@@ -1,0 +1,15 @@
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Matriz\bin\Debug\net8.0\Matriz.exe
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Matriz\bin\Debug\net8.0\Matriz.deps.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Matriz\bin\Debug\net8.0\Matriz.runtimeconfig.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Matriz\bin\Debug\net8.0\Matriz.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Matriz\bin\Debug\net8.0\Matriz.pdb
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Matriz\obj\Debug\net8.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Matriz\obj\Debug\net8.0\Matriz.AssemblyInfoInputs.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Matriz\obj\Debug\net8.0\Matriz.AssemblyInfo.cs
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Matriz\obj\Debug\net8.0\Matriz.csproj.CoreCompileInputs.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Matriz\obj\Debug\net8.0\Matriz.sourcelink.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Matriz\obj\Debug\net8.0\Matriz.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Matriz\obj\Debug\net8.0\refint\Matriz.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Matriz\obj\Debug\net8.0\Matriz.pdb
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Matriz\obj\Debug\net8.0\Matriz.genruntimeconfig.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\Matriz\obj\Debug\net8.0\ref\Matriz.dll
