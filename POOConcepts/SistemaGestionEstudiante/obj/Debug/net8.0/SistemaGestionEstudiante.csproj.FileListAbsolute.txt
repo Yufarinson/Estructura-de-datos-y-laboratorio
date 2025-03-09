@@ -1,0 +1,15 @@
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SistemaGestionEstudiante\bin\Debug\net8.0\SistemaGestionEstudiante.exe
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SistemaGestionEstudiante\bin\Debug\net8.0\SistemaGestionEstudiante.deps.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SistemaGestionEstudiante\bin\Debug\net8.0\SistemaGestionEstudiante.runtimeconfig.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SistemaGestionEstudiante\bin\Debug\net8.0\SistemaGestionEstudiante.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SistemaGestionEstudiante\bin\Debug\net8.0\SistemaGestionEstudiante.pdb
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SistemaGestionEstudiante\obj\Debug\net8.0\SistemaGestionEstudiante.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SistemaGestionEstudiante\obj\Debug\net8.0\SistemaGestionEstudiante.AssemblyInfoInputs.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SistemaGestionEstudiante\obj\Debug\net8.0\SistemaGestionEstudiante.AssemblyInfo.cs
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SistemaGestionEstudiante\obj\Debug\net8.0\SistemaGestionEstudiante.csproj.CoreCompileInputs.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SistemaGestionEstudiante\obj\Debug\net8.0\SistemaGestionEstudiante.sourcelink.json
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SistemaGestionEstudiante\obj\Debug\net8.0\SistemaGestionEstudiante.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SistemaGestionEstudiante\obj\Debug\net8.0\refint\SistemaGestionEstudiante.dll
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SistemaGestionEstudiante\obj\Debug\net8.0\SistemaGestionEstudiante.pdb
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SistemaGestionEstudiante\obj\Debug\net8.0\SistemaGestionEstudiante.genruntimeconfig.cache
+D:\Cursos\Estructura de datos y laboratorio\POOConcepts\SistemaGestionEstudiante\obj\Debug\net8.0\ref\SistemaGestionEstudiante.dll

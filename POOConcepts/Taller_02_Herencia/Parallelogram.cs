@@ -19,7 +19,7 @@ public class Parallelogram : Rectangle
 
     public override double GetArea()
     {
-        return A * H;
+        return B * H;
     }
 
     public override double GetPerimeter()
